@@ -92,10 +92,8 @@
 		</Item>
 		<Item Name="Need Fixed" Type="Folder">
 			<Item Name="rs3 init all.vi" Type="VI" URL="../rs3 init all.vi"/>
-			<Item Name="rs3 post process4.vi" Type="VI" URL="../rs3 post process4.vi"/>
-		</Item>
-		<Item Name="RealSense" Type="Folder">
 			<Item Name="rs3 init devices_and_sensors.vi" Type="VI" URL="../rs3 init devices_and_sensors.vi"/>
+			<Item Name="rs3 post process4.vi" Type="VI" URL="../rs3 post process4.vi"/>
 		</Item>
 		<Item Name="Getting Started with RealSense SDK2 for LabVIEW.pdf" Type="Document" URL="../Getting Started with RealSense SDK2 for LabVIEW.pdf"/>
 		<Item Name="RealSense_HelloWorld_Depth_and_Color.vi" Type="VI" URL="../RealSense_HelloWorld_Depth_and_Color.vi"/>
